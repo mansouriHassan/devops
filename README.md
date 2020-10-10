@@ -1,2 +1,3 @@
-# devops
-DevOps Repository
+# maven-project
+
+Simple Maven Project
